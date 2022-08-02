@@ -11,10 +11,11 @@ to check for changes:
 git diff
 
 -: Reviewing Existing Work
-We can discover details about what other developers have done by using the extremely powerful git log command.
+We can discover details about what other developers have done by using the extremely powerful 
+git log command.
 
 Group By Commit Author
- A quick way that we can see how many commits each contributor has added to the repository is to use the git shortlog command:
+A quick way that we can see how many commits each contributor has added to the repository is to use the git shortlog command:
 
 $ git shortlog
 
@@ -47,17 +48,15 @@ The first thing you should always look for in a project is a file with the name 
 
 Recap
 Before you start doing any work, make sure to look for the project's CONTRIBUTING.md file.
-
 Next, it's a good idea to look at the GitHub issues for the project
-
 look at the existing issues to see if one is similar to the change you want to contribute
 if necessary create a new issue
 communicate the changes you'd like to make to the project maintainer in the issue
-When you start developing, commit all of your work on a topic branch:
+When you start developing, commit all of your work on a topic branch.
 
 do not work on the master branch
 make sure to give the topic branch clear, descriptive name
-As a general best practice for writing commits:
+As a general best practice for writing commits.
 
 make frequent, smaller commits
 use clear and descriptive commit messages
@@ -67,7 +66,6 @@ update the README file, if necessary
 A pull request is a request to the original or source repository's maintainer to include changes in their project that you made in your fork of their project. You are requesting that they pull in changes you've made.
 
 As long as you following the steps we covered in the previous section on:
-
 reviewing the project's CONTRIBUTING.md file
 checking out the project's existing issues
 talking with the project maintainer
@@ -98,7 +96,6 @@ Remember that the names origin and upstream are just the default or de facto nam
 
 Using the git remote rename command to rename origin to mine and upstream to source-repo.
 git remote rename origin mine
-
 git remote rename upstream source-repo
 
 Retrieving Upstream Changes
@@ -108,7 +105,7 @@ $ git fetch upstream master
 
 Q: Now that you've added a connection to the new upstream remote repository, if you run git fetch upstream master will that update your forked repository on GitHub?
 
-git fetch only updates the local repository. To update the project on GitHub, we'd need to push these newly acquired commits to our fork.
+git fetch only updates the local repository. To update the project on GitHub, we'd need to push these newly acquired commits to our fork after first merging it.
 
 To get these changes into my forked version of her project, I could merge upstream/master into an existing branch (like the local master branch) and push that.
 
@@ -131,7 +128,6 @@ Recap
 When working with a project that you've forked. The original project's maintainer will continue adding changes to their project. You'll want to keep your fork of their project in sync with theirs so that you can include any changes they make.
 
 To get commits from a source repository into your forked repository on GitHub you need to:
-
 get the cloneable URL of the source repository
 create a new remote with the git remote add command
 use the shortname upstream to point to the source repository
@@ -140,10 +136,8 @@ fetch the new upstream remote
 merge the upstream's branch into a local branch
 push the newly updated local branch to your origin repo
 
--: Manage an active PR
-
 -: Squash(combine) Commits
-To squash commits together, we're going to use the extremely powerful git rebase command. 
+To squash commits together, we're going to use the extremely powerful `git rebase` command. 
 
 The Rebase Command
 The git rebase command will move commits to have a new base. In the command git rebase -i HEAD~3, we're telling Git to use HEAD~3 as the base where all of the other commits (HEAD~2, HEAD~1, and HEAD) will connect to.

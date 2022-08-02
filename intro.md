@@ -41,8 +41,8 @@ The output includes the shortname and the full URL that it refers to.
 The git push command is used to send commits from a local repository to a remote repository.
 
 $ git push origin master
-The git push command takes:
 
+The git push command takes:
 the shortname of the remote repository you want to send commits to
 the name of the branch that has the commits you want to send
 
@@ -58,10 +58,9 @@ When git pull is run, the following things happen:
 Git fetch is used to retrieve commits from a remote repository's branch but it does not automatically merge the local branch with the remote tracking branch after those commits have been received.
 
 When git fetch is run, the following things happen:
-
-the commit(s) on the remote branch are copied to the local repository
-the local tracking branch (e.g. origin/master) is moved to point to the most recent commit
-The important thing to note is that the local branch does not change at all.
+    the commit(s) on the remote branch are copied to the local repository
+    the local tracking branch (e.g. origin/master) is moved to point to the most recent commit
+    The important thing to note is that the local branch does not change at all.
 
 You can think of git fetch as half of a git pull. The other half of git pull is the merging aspect.
 
