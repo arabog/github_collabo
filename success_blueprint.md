@@ -3,6 +3,7 @@ At Udacity, we recommend you take a proactive approach to the job
 search process. By first building your self-confidence and clearly 
 identifying your needs and wants, you’ll be in a better position to 
 seek out jobs that will actually make a lasting impact on your future. 
+
 You'll know what you want - and what you don't want - in a job. You 
 can also better visualize your path to that job and make immediate 
 plans. For example, perhaps your next job first requires more skills 
@@ -38,8 +39,8 @@ How can I make [this particular technology] better?
 Q: What skills do you want to improve or develop?
 
 Suggestns:
-The benefit of constantly working on existing and new skills is that you 
-will be accumulating a body of work which can be included in your 
+The benefit of constantly working on existing and new skills is that 
+you will be accumulating a body of work which can be included in your 
 portfolio to showcase to employers.
 
 In order to know which new skills you should focus on developing, you 
@@ -82,12 +83,16 @@ like!
 
 Suggestns:
 Type of employment (do you want a full-time job or part-time/contract opportunity?)
+
 Work day flexibility (for example, would you prefer a steady 9-5 or the ability to 
 work your own hours so long as you get the work done?)
+
 Benefits (how much do things such as healthcare, stocks or equity, and vacation 
 days matter to you?)
+
 Job growth opportunities (how do you want the company to support you in your 
 career development?)
+
 Perks (how much do things like foosball tables, company-sponsored lunches, and 
 happy hours matter to you?)
 
@@ -100,7 +105,6 @@ Consider this example:
 Jenny loves to travel regularly, and REMOTE work is required for her to keep 
 her lifestyle. Working in environmental sustainability would be nice to have, 
 but she's open to ANY GOOD JOB that allows her to telecommute.
-
 To Jenny, the ability to travel is the most important thing for her, since 
 her passion in life is meeting new people and exploring new places. She's 
 always been interested in environmental sustainability, but there are also 
@@ -109,10 +113,8 @@ She's open to any remote roles in those industries.
 
 
 To Clara, it is a necessity that her job be about working on ENVIRONMTAL 
-SUSTAINABILITY. For her, a nice-to-have to have is the option to work 
-remotely, but she wouldn't mind working somewhere that didn't provide 
-this option.
-
+SUSTAINABILITY. For her, a nice-to-have is the option to work remotely, but 
+she wouldn't mind working somewhere that didn't provide this option.
 To Clara, environmental sustainability is a "must-have" because it's her 
 passion in life and where she wants to make her mark. Even if she got an 
 amazing job in another field, she wouldn't be as happy working for a company 
@@ -138,11 +140,9 @@ Tip: Don’t forget that this process will be a marathon, not a sprint. Explore
 careers and new industries with persistent curiosity. Be sure to keep your 
 notebook next to you so you can write new questions as they come up.
 
-
 We performed a search for you on LinkedIn, and you can see the results when 
-you click on the 
-link below. We searched for "developer" jobs worldwide on LinkedIn.
-
+you click on the link below. We searched for "developer" jobs worldwide on 
+LinkedIn.
 https://www.linkedin.com/jobs/search/?keywords=developer&location=Worldwide&locationId=OTHERS.worldwide
 
 While browsing on LinkedIn, identify 2-3 locations you'd like to work in and 
@@ -188,7 +188,6 @@ I see many jobs are remote-friendly and I like that flexibility.
 I'm interested in gaining experience in the online learning space.
 
 Plot a potential stop on your career journey
-
 Company 1
 Primary product(s)
 History of the company or organization
@@ -230,14 +229,15 @@ If you cannot pay for the product, or the product is inaccessible to you,
 search for reviews online and see what people who have used it have written. 
 Here are a couple of things to watch out for that will help you understand 
 the product’s role in the current market:
-
-    How many users does it currently have? Where does it rank against its competitors?
+    How many users does it currently have? 
+    Where does it rank against its competitors?
     Have any major publications (The New York Times, Bloomberg Business, Wired, etc.) 
     covered the product or company’s growth and development?
     Are there any major glitches, bugs, or other technical flaws that have been 
     reported and have gone unresolved?
-    In your opinion, what are the best attributes of the product? What are things 
-    to be fixed or improved?
+    In your opinion, what are the best attributes of the product? 
+    What are things to be fixed or improved?
+
 By learning the most up-to-date information on a company's product, you will be 
 able to speak more eloquently in an interview or to a company contact, showcasing 
 your in-depth knowledge of the company.
@@ -307,7 +307,6 @@ Request an Informational Interview
 An initial email or longer LinkedIn message are two of the most common ways 
 of extending a request for an informational interview. Consider the following 
 when crafting your message:
-
     Your tone should be gracious; at no point should you assume that they are 
     obligated to offer you their time or attention, regardless of how you know 
     each other.
@@ -325,27 +324,27 @@ If you aren’t able to schedule a live conversation, the contact may be
 still willing to answer some questions over email or LinkedIn.
 
 Are you familiar with the language and tone of an informational interview request? 
-Reason for reaching out
+Reason for reaching out:
 I am hoping to learn more abt Asana and ur amazing work with
 their web design
 
-Your career interest
+Your career interest:
 I am a computer science teacher with 10 yrs of experience
 currently transitning into bcoming an early-career front-end
 developer
 
 Explanation of how contact’s position/background connects with your career 
-interest and reason for reaching out
+interest and reason for reaching out:
 My goal is to one day works as an in-house frontend designer for a
 tech company, and i would really value ur perspective on what ur 
 experiences av been like so far.
 
-Your connection to the person, if there is any
+Your connection to the person, if there is any:
 Kathleen suggested dt i reach out to u after i saw dt u were
 connected on Linkedin, and i am writing to ask if i could
 meet with u 4 a short informatnal interview.
 
-Details on where, when, and how you would like to carry out the informational 
+Details on where, when, and how you would like to carry out the informatnal: 
 interview would u be available to meet with me smtime in d next 2 wks?
 I would be happy to take u out 4 coffee at a time dt would be
 convenient for u
@@ -358,15 +357,15 @@ their business card, or someone introduced you both) or over LinkedIn.
 Although email and LinkedIn are different platforms, the structure of how 
 you reach out and start a conversation is the same. See the examples below.
 
-Sample Email Template
+Sample Email Template:
 Hi [Contact Name],
 
 1st Paragraph - Self introduction including the following information:
-
 Your career interests
 Reason for reaching out
 How contact’s position/background connects the first 2 pieces of information
 Your connection to the person you’re writing to, if there is any
+
 2nd Paragraph - Details on where, when, and how you would like to carry out 
 the informational interview
 
@@ -377,7 +376,7 @@ Sincerely,
 [LinkedIn profile URL -- make sure to set your privacy settings to public!]
 
 
-Example LinkedIn Conversation
+Example LinkedIn Conversation:
 Hi Trinh,
 My name is Ruyi, a computer science teacher intrested in 
 transitioning into course development in the e-learning industry. i would 
@@ -389,6 +388,8 @@ Thank u 4 ur time
 Best,
 Ruyi
 
+-------
+Response:
 Once they've accepted your invitation to connect, you can move forward 
 with sending your request to meet for an informational interview.
 
@@ -406,7 +407,6 @@ e-learning company to create engaging courses.
 would u be available to meet in two weeks at a time that works for you? i 
 would be happy to take u out for a coffee and hear about ur experience
 
-
 Don't forget: people like being reached out to! There's no reason to see 
 your informational interview request as an inconvenience to the other person. 
 Like you, other people are interested in improving professionally, which can 
@@ -415,13 +415,13 @@ current topics of interest in the industry.
 
 
 ==================
--: Ask Good Questions
-
+-: Ask Good Questions:
 Below are a few guidelines:
 Come prepared with smart, relevant questions. If you can find the answer to 
 your question on the person's LinkedIn profile, in a Google search, or on 
 the company website, you can be fairly confident that it won’t be the best 
 question to ask.
+
 Opt for open-ended questions with potential for insightful answers.
 Before the interview, create a sample question list.
 During the interview, take notes on the information you learn and be mindful 
@@ -455,6 +455,7 @@ How do u approach professnal develpmt in ds field?
 
 -: Debrief: Sample Questions Quiz
 Can you tell me about [x company controversy]?
+
 Why not to ask: As an employee, it can be both uncomfortable and awkward 
 for them to make public comments to you about such a sensitive topic. 
 The purpose of this informational interview is for you to develop a 
@@ -532,6 +533,7 @@ Get out of your comfort zone and learn to be proactive about asking.
 The worst that can happen is that someone declines or does not 
 respond to your request. But there will be people who don't decline 
 and will respond!
+
 Be optimistic and resourceful. Informational interviews are great 
 learning experiences and practice for future job interviews.
 
